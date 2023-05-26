@@ -18,7 +18,6 @@ function deepClone(array) {
         }
     }
 
-    console.log(newArray);
     return newArray;
 }
 
